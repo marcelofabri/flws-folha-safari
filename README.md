@@ -6,5 +6,5 @@ Uma extensão para o Safari que remove o paywall (aquele banner enorme) do site 
 Código baseado no [twitter-urls-to-clients](https://github.com/orta/twitter-urls-to-clients).
 
 ## Download: 
-### Version 1.0
+### Versão 1.0
 [Safari](releases/Flws Folha-1.0.safariextz?raw=true)
