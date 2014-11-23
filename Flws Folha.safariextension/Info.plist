@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Marcelo Fabri</string>
+	<key>Builder Version</key>
+	<string>10600.1.25.1</string>
+	<key>CFBundleDisplayName</key>
+	<string>Flws Folha</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.marcelofabri.flwsfolha</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>flws_folha.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Remove o paywall do site da Folha.</string>
+	<key>DeveloperIdentifier</key>
+	<string>GW227GRJX4</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>*.folha.uol.com.br</string>
+				<string>*.folha.com.br</string>
+			</array>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>https://github.com/marcelofabri/flws-folha-safari</string>
+</dict>
+</plist>
