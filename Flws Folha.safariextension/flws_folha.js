@@ -21,9 +21,10 @@ function remove_paywall(first_time, observer) {
 // do a quick check of the URLs. This will also most likely kick it to action initially.
 
 var observer = new WebKitMutationObserver(function(mutations) {
-  mutations.forEach(function(mutation) {
-    remove_paywall(false, this);
-  });    
+	var obs = this;
+  	mutations.forEach(function(mutation) {
+    	remove_paywall(false, obs);
+  	});    
 });
 
 
