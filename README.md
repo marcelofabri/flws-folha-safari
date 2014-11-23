@@ -7,4 +7,4 @@ Código baseado no [twitter-urls-to-clients](https://github.com/orta/twitter-url
 
 ## Download: 
 ### Version 1.0
-[Safari](releases/Flws Folha-1.0.safariextz)
+[Safari](releases/Flws Folha-1.0.safariextz?raw=true)
